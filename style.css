@@ -1,0 +1,32 @@
+.coins {
+    background-color: #267bc5;
+    text-align: center;
+    padding: 10px;
+  }
+  .total {
+    background-color: #267bc5;
+    text-align: center;
+    padding: 10px;
+  }
+  button {
+    align-items: center;
+    margin: 5px;
+    font-family: "Helvetica";
+    border: 1px solid black;
+  }
+  h1 {
+    text-align: center;
+    font-family: "Helvetica";
+    font-size: 40px;
+    background-color: #267bc5;
+    padding: 10px;
+  }
+  h2 {
+    font-family: "Helvetica";
+    margin-bottom: 0px;
+    padding-top: 5px;
+  }
+  body {
+    background-color: #267bc5;
+  }
+  
